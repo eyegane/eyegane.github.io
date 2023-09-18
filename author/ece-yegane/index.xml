@@ -5,12 +5,28 @@
     <link>/author/ece-yegane/</link>
       <atom:link href="/author/ece-yegane/index.xml" rel="self" type="application/rss+xml" />
     <description>Ece Yegane</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Ece Yegane</title>
       <link>/author/ece-yegane/</link>
     </image>
+    
+    <item>
+      <title>Revealed Attention and Memory</title>
+      <link>/publication/attention_memory/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/attention_memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revealing Unobserved Price Discounts</title>
+      <link>/publication/price_discounts/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/price_discounts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Stochastic Choice with Limited Memory</title>
