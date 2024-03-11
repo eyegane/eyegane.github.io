@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/teaching/</loc>
+    <lastmod>2020-08-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication-type/3/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tag/consumer-choice/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/ece-yegane/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/jmp/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
@@ -31,9 +34,6 @@
   </url><url>
     <loc>/author/yusufcan-masatlioglu/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/consumer-choice/</loc>
-    <lastmod>2023-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/price_discounts/</loc>
     <lastmod>2023-05-07T00:00:00+00:00</lastmod>
